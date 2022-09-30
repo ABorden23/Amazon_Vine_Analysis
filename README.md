@@ -1,6 +1,18 @@
 # Amazon Vine Analysis
 
-Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
+
+In this project we have been given access to 50 Datasets to choose from to analyze. I decided to choose sports...
+
+The purpose of this is determine if there is any bias towards favorable reviews from Vine members in the dataset.
+
+Software/Languages Used: 
+
+* PySpark 
+* AWS 
+* ETL 
+* SQL
+* Pandas
 
 How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
