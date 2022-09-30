@@ -15,8 +15,22 @@ Software/Languages Used:
 * Pandas
 
 How many Vine reviews and non-Vine reviews were there?
+
+![paid_reviews.png](https://github.com/ABorden23/Amazon_Vine_Analysis/blob/main/resources/paid_reviews.png)
+
+![unpaid_reviews.png](https://github.com/ABorden23/Amazon_Vine_Analysis/blob/main/resources/unpaid_reviews.png)
+
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+![paid_5star_reviews.png](https://github.com/ABorden23/Amazon_Vine_Analysis/blob/main/resources/paid_5star_reviews.png)
+
+![unpaid_5star_reviews.png](https://github.com/ABorden23/Amazon_Vine_Analysis/blob/main/resources/unpaid_5star_reviews.png)
+
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+![percentage_paid_5star_reviews.png](https://github.com/ABorden23/Amazon_Vine_Analysis/blob/main/resources/percentage_paid_5star_reviews.png)
+
+![percentage_unpaid_5star_reviews.png](https://github.com/ABorden23/Amazon_Vine_Analysis/blob/main/resources/percentage_unpaid_5star_reviews.png)
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
