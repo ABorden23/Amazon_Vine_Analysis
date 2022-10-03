@@ -71,9 +71,8 @@ Vine Review Analysis with SQL
 
 ## Summary: 
 
-39.82 % of paid 5 star reviews matched the percentages of 39.82% of UNpaid 5 star reviews. 
+39.82 % of paid 5 star reviews matched the percentages of 51.62% of UNpaid 5 star reviews. 
 
 We could always test the standard deviation, mean, median, and mode of the star ratings for the vine and now vine reviews.
-
 
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
