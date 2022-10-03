@@ -44,7 +44,7 @@ Software/Languages Used:
 
 ![percentage_unpaid_5star_reviews.png](https://github.com/ABorden23/Amazon_Vine_Analysis/blob/main/resources/percentage_unpaid_5star_reviews.png)
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+# Results: 
 
 Customers Table Data Frame
 
